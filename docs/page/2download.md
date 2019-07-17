@@ -17,16 +17,16 @@ type: page
 * `MenuPlugin-x.x.x.jar`: 服务端插件的jar文件,放入`plugins`文件夹
 
 ## 全部版本
-[百度网盘](https://pan.baidu.com/s/1sRLddCdn1gdQCKKYiYiT1g)
+[百度网盘](https://pan.baidu.com/s/1nP085ZvRTtWTsVaSfdq3cw)
 
 ## 2.0.0版本
-[百度网盘](https://pan.baidu.com/s/1krPGvhU42haZM_YuPEgYRg)
+[百度网盘](https://pan.baidu.com/s/15gLsa2HAPhYuEy2fiA1RaQ)
 
 #### 更新日志
 进行各种修复后的二代版本
 
 ## 1.0.0版本
-[百度网盘](https://pan.baidu.com/s/1SrTmMBPKogF_gZKhvY-HOg)
+[百度网盘](https://pan.baidu.com/s/1mooQq7I8z1V9geXN62gS5g)
 
 #### 更新日志
 一代版本
